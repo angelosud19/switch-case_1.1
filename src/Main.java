@@ -38,3 +38,5 @@ public class Main {
         sc.close();
     }
 }
+
+// DIGITE UM NUMERO DE 1 a 7 E SERA DITO O DIA DA SEMANA EQUIVALENTE AO MESMO.
